@@ -1,0 +1,10 @@
+---
+title: Kentaro Hoffman
+author: Hoffman, Kentaro
+description: Need  
+date: 10/26/2023
+toc: true
+image: ../../images/people/kentaro_hoffman.jpg
+image-alt: Need
+---
+NEED

@@ -1,0 +1,38 @@
+{
+  "index.qmd": {
+    "index.html": "67d34ba1"
+  },
+  "about.qmd": {
+    "about.html": "3addcb8c"
+  },
+  "content/people/faculty/jeff_leek.qmd": {
+    "jeff_leek.html": "4f6891df"
+  },
+  "content/people/gradstudents/awan_afiaz.qmd": {
+    "awan_afiaz.html": "e0109783"
+  },
+  "people.qmd": {
+    "people.html": "71cda737"
+  },
+  "software.qmd": {
+    "software.html": "19b6aa6d"
+  },
+  "publications.qmd": {
+    "publications.html": "5c9dac94"
+  },
+  "talks.qmd": {
+    "talks.html": "8752e8cc"
+  },
+  "content/people/faculty/tyler_mccormick.qmd": {
+    "tyler_mccormick.html": "43ad7eb9"
+  },
+  "content/people/postdocs/kentaro_hoffman.qmd": {
+    "kentaro_hoffman.html": "e3efc6f2"
+  },
+  "content/people/postdocs/stephen_salerno.qmd": {
+    "stephen_salerno.html": "e096f1e6"
+  },
+  "content/publications/2020_Wang_PPI/2020_Wang_PPI.qmd": {
+    "2020_Wang_PPI.html": "be4df122"
+  }
+}

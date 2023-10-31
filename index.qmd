@@ -1,0 +1,54 @@
+---
+title: ""
+page-layout: custom
+toc: false
+---
+
+::: {.column-screen style="background: url('content/images/seattle_skyline.png') center top no-repeat; background-attachment: fixed;  border-bottom: 2px solid black; border-top: 2px solid black;"}
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+:::
+
+::: {.column-body}
+## What is Post-Prediction Inference?
+
+Post-Prediction Inference (PPI) constitutes an analytical paradigm for making accurate scientific inferences when someone would like to use a pre-trained machine learning algorithm to impute for missing values, while preserving the ability to perform valid statistical inference using those imputed values. 
+:::
+
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>

@@ -1,0 +1,16 @@
+{
+  "hash": "9a30bf1c766559dde4051ae52b7bb4f8",
+  "result": {
+    "markdown": "---\ntitle: \"About\"\n---\n\n\n## Our Team\n\n### Faculty\n\n- Jeff Leek\n\n- Tyler McCormick\n\n\n### Postdoctoral Fellows\n\n- Kentaro Hoffman\n\n- Stephen Salerno\n\n### Graduate Students\n\n- Awan\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [
+      "about_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

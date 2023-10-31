@@ -1,0 +1,17 @@
+{
+  "listingMap": {
+    "about.qmd": [
+      "content/people/faculty",
+      "content/people/postdocs",
+      "content/people/gradstudents"
+    ],
+    "people.qmd": [
+      "content/people/faculty",
+      "content/people/postdocs",
+      "content/people/gradstudents"
+    ],
+    "publications.qmd": [
+      "content/publications"
+    ]
+  }
+}

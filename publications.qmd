@@ -1,0 +1,17 @@
+---
+title: "Publications"
+layout: custom
+
+listing:
+  - id: publications
+    contents: content/publications
+    sort: "date"
+    fields: [title, date, authors, url_pdf, doi]
+    
+toc: false
+
+editor: source
+---
+
+::: {#publications}
+:::

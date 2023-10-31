@@ -1,0 +1,76 @@
+---
+title: ""
+
+layout: custom
+
+listing:
+  - id: faculty
+    contents: content/people/faculty
+    sort: "author"
+    type: grid
+    fields: [image, title, description]
+    grid-item-align: center
+    grid-columns: 4
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    feed: false
+    
+  - id: postdocs
+    contents: content/people/postdocs
+    sort: "author"
+    type: grid
+    fields: [image, title, description]
+    grid-item-align: center
+    grid-columns: 4
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    feed: false
+    
+  - id: gradstudents
+    contents: content/people/gradstudents
+    sort: "author"
+    type: grid
+    fields: [image, title, description]
+    grid-item-align: center
+    grid-columns: 4
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    feed: false
+    
+toc: false
+---
+
+::: {.content-container}
+::: {.listing-block}
+# Faculty
+::: {#faculty}
+:::
+:::
+:::
+
+<br>
+
+<br>
+
+::: {.content-container}
+::: {.listing-block}
+# Postdoctoral Fellows
+::: {#postdocs}
+:::
+:::
+:::
+
+<br>
+
+<br>
+
+::: {.content-container}
+::: {.listing-block}
+# Graduate Students
+::: {#gradstudents}
+:::
+:::
+:::

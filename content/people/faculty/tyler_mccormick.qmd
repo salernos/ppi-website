@@ -1,0 +1,10 @@
+---
+title: Tyler McCormick
+author: McCormick, Tyler
+description: Need  
+date: 10/26/2023
+toc: true
+image: ../../images/people/tyler_mccormick.jpg
+image-alt: Need
+---
+NEED

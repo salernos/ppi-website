@@ -1,0 +1,63 @@
+project:
+  type: website
+
+website:
+  title: PPI Working Group
+  page-navigation: true
+  image: content/images/ppi.png
+  favicon: content/images/ppi.png
+  #google-analytics: NEED
+  #site-url: NEED
+  #repo-url: NEED
+  #repo-actions: [edit, issue]
+  #open-graph: true
+  #search:
+
+  #twitter-card:
+   # site: "@StephenSalerno4"
+
+  navbar:
+    background: "#F7F7F7"
+    pinned: true
+    title: Post-Prediction Inference Working Group
+    logo: content/images/ppi.png
+    collapse-below: lg
+
+    right:
+      - href: index.qmd
+        text: Home
+      - href: people.qmd
+        text: People
+      - href: software.qmd
+        text: Software
+      - href: publications.qmd
+        text: Publications
+      - href: talks.qmd
+        text: Talks
+
+  page-footer:
+    left: |
+      Proudly built with [![](/images/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
+    center:
+      - text: © 2023 PPI Working Group
+    right:
+      - icon: envelope-fill
+        href: mailto:salernos@umich.edu
+      - icon: twitter
+        href: https://twitter.com/StephenSalerno4
+      - icon: github
+        href: https://github.com/salernos
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=XUH1C6YAAAAJ&hl=en
+      - icon: linkedin
+        href: https://www.linkedin.com/in/stephen-salerno-90855563/
+
+format:
+  html:
+    theme: [lux, styles.scss]
+    css: styles.css
+    toc: true
+    grid:
+      sidebar-width: 0px
+      body-width: 1000px
+      margin-width: 250px

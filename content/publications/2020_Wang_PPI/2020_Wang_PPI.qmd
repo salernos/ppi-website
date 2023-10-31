@@ -1,0 +1,13 @@
+---
+title: "Methods for correcting inference based on outcomes predicted by machine learning"
+date: 2020-12-01
+publishDate: 2020-12-01
+authors: ["Siruo Wang", "Tyler H. McCormick", "Jeffrey T. Leek"]
+publication_types: ["2"]
+abstract: "Many modern problems in medicine and public health leverage machine-learning methods to predict outcomes based on observable covariates. In a wide array of settings, predicted outcomes are used in subsequent statistical analysis, often without accounting for the distinction between observed and predicted outcomes. We call inference with predicted outcomes postprediction inference. In this paper, we develop methods for correcting statistical inference using outcomes predicted with arbitrarily complicated machine-learning models including random forests and deep neural nets. Rather than trying to derive the correction from first principles for each machine-learning algorithm, we observe that there is typically a low-dimensional and easily modeled representation of the relationship between the observed and predicted outcomes. We build an approach for postprediction inference that naturally fits into the standard machine-learning framework where the data are divided into training, testing, and validation sets. We train the prediction model in the training set, estimate the relationship between the observed and predicted outcomes in the testing set, and use that relationship to correct subsequent inference in the validation set. We show our postprediction inference (postpi) approach can correct bias and improve variance estimation and subsequent statistical inference with predicted outcomes. To show the broad range of applicability of our approach, we show postpi can improve inference in two distinct fields: modeling predicted phenotypes in repurposed gene expression data and modeling predicted causes of death in verbal autopsy data. Our method is available through an open-source R package: https://github.com/leekgroup/postpi."
+featured: true
+publication: "https://www.pnas.org/doi/full/10.1073/pnas.2001238117"
+url_pdf: "https://www.pnas.org/doi/epdf/10.1073/pnas.2001238117"
+doi: "10.1073/pnas.2001238117"
+editor: source
+---

@@ -1,0 +1,28 @@
+[
+  {
+    "listing": "/about.html",
+    "items": [
+      "/content/people/faculty/jeff_leek.html",
+      "/content/people/faculty/tyler_mccormick.html",
+      "/content/people/postdocs/kentaro_hoffman.html",
+      "/content/people/postdocs/stephen_salerno.html",
+      "/content/people/gradstudents/awan_afiaz.html"
+    ]
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/content/people/faculty/jeff_leek.html",
+      "/content/people/faculty/tyler_mccormick.html",
+      "/content/people/postdocs/kentaro_hoffman.html",
+      "/content/people/postdocs/stephen_salerno.html",
+      "/content/people/gradstudents/awan_afiaz.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/content/publications/2020_Wang_PPI/2020_Wang_PPI.html"
+    ]
+  }
+]
